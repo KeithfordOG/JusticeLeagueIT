@@ -35,6 +35,8 @@ The **Justice League Device Management Project** sets up and enforces security a
 ### 1. 👥 Users and Groups Setup
 
 - **Create Users**: In the Microsoft 365 Admin Center, create accounts for Justice League members (e.g., Batman, Wonder Woman). Assign Intune licenses to each.
+  ![Creating Users](Images/users.png)
+
 - **Create Role-Based Groups**:
   - 👑 Admin
   - 🛠️ Help Desk
