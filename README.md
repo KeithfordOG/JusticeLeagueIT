@@ -41,6 +41,7 @@ The **Justice League Device Management Project** sets up and enforces security a
   - 🛠️ Help Desk
   - 📄 Profile/Policy Manager
   - 👀 Read Only
+    ![Creating Security Groups](Images/groups.png)
 - **Add Members**: Assign each member to the appropriate group based on their heroic responsibilities.
 
 ### 2. 🎛️ Assign Intune Roles and Scope Groups
@@ -53,8 +54,7 @@ The **Justice League Device Management Project** sets up and enforces security a
 - **iOS Compliance Policy**:
   - 📱 Settings include password requirements, encryption, and blocking jailbroken devices.
   - 🚨 Assign the policy to all iOS device groups (e.g., All iOS Devices or Justice League Members).
-- **Additional Compliance Policies** (Optional):
-  - 📲 Configure compliance policies for Android and Windows platforms as needed.
+ ![Creating Compliance Policy](Images/compliancepolicy.png)
 
 ### 4. 🔧 Configuration Profiles
 
@@ -62,14 +62,14 @@ The **Justice League Device Management Project** sets up and enforces security a
   - Use the **Settings Catalog** or **Templates** for device restrictions, Wi-Fi, or VPN.
   - 🔐 Settings include password requirements, network restrictions, and app permissions.
   - 📋 Assign this profile to all iOS device groups.
-- **Additional Profiles**:
-  - 🖥️ Configure additional profiles for other platforms, such as Android or Windows, if required.
+
 
 
 ### 5. 📊 Monitoring and Management
 
 - **Monitor Compliance**: In Endpoint Manager, go to **Reports** > **Device Compliance** to view device compliance status.
 - **Testing**: Enroll a test device to validate compliance and configuration settings.
+   ![Monitoring Compliance](Images/monitor.png)
 
 ---
 
