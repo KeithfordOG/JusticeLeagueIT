@@ -25,7 +25,7 @@ The **Justice League Device Management Project** sets up and enforces security a
 - 🔒 **Role-based access control** for different responsibilities (Admin, Help Desk, Profile/Policy Manager, Read Only).
 - 🛡️ **Compliance policies** for device health and security.
 - ⚙️ **Configuration profiles** for device settings like Wi-Fi, VPN, and app restrictions.
-- 🔐 **Optional conditional access policies** for sensitive resources.
+
 
 ---
 
