@@ -12,8 +12,7 @@ This project configures and manages devices for the Justice League team using **
    - [2. Assign Intune Roles and Scope Groups](#2-assign-intune-roles-and-scope-groups)
    - [3. Compliance Policies](#3-compliance-policies)
    - [4. Configuration Profiles](#4-configuration-profiles)
-   - [5. Conditional Access (Optional)](#5-conditional-access-optional)
-   - [6. Monitoring and Management](#6-monitoring-and-management)
+   - [5. Monitoring and Management](#6-monitoring-and-management)
 3. [📂 Project Structure](#project-structure)
 
 
