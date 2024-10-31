@@ -73,21 +73,5 @@ The **Justice League Device Management Project** sets up and enforces security a
 
 ---
 
-## 📂 Project Structure
 
-```plaintext
-|-- Justice League Device Management Project
-|   |-- README.md                    # Project documentation
-|   |-- Compliance Policies
-|       |-- iOS Compliance Policy    # Compliance policy for iOS
-|       |-- Android Compliance Policy # Compliance policy for Android
-|       |-- Windows Compliance Policy # Compliance policy for Windows
-|   |-- Configuration Profiles
-|       |-- iOS Device Profile       # iOS device configuration settings
-|       |-- Android Device Profile   # Android device configuration settings
-|   |-- Role-Based Access
-|       |-- Admin Group              # Admin role settings
-|       |-- Help Desk Group          # Help Desk role settings
-|       |-- Profile/Policy Manager   # Profile/Policy Manager role settings
-|       |-- Read Only Group          # Read Only access settings
 
